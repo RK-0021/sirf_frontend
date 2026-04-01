@@ -1,0 +1,10 @@
+.hero-image {
+  width: 50%;
+  height: auto;
+
+  transform: translate(1px, 513px);
+  /* translate(X, Y)
+     X → left/right
+     Y → up/down
+  */
+}

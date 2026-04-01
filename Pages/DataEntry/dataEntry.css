@@ -1,0 +1,125 @@
+.de-content {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.de-content2 {
+  margin-left: 25px;
+  margin-right: 50px;
+}
+
+.de-rowDE {
+  /* border: 1px solid rgba(126, 151, 138, 0.3); */
+  vertical-align: top !important;
+}
+
+.de-rowDA{
+  vertical-align: top !important;
+}
+
+.dot-input {
+  width: 100%;
+  height: 40px;
+  border: 1px dashed #000;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#outlined-requireds {
+  height: 40px;
+  padding-top: 0;
+  padding-bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+
+#text_form {
+  margin-top: 10px;
+  align-items: flex-start;
+}
+
+#check_form {
+  margin-top: 8px;
+  align-items: flex-start;
+}
+
+.dot-input.empty {
+  border: 1px dashed red !important;
+}
+
+.red-dot {
+  color: red;
+  margin-left: 5px;
+}
+
+.app {
+  text-align: center;
+  margin-top: 100px;
+  padding: 30px;
+}
+
+.qLogo {
+  width: 18px;
+  margin-right: 3px;
+}
+
+.MuiStepIcon-text {
+  font-size: 0 !important;
+}
+
+.MuiStepConnector-line {
+  border-top-width: 2px !important;
+}
+
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+  margin-top: -114px !important;
+}
+
+.stepNo {
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+
+.label {
+  font-size: 12px !important;
+  margin-top: 6px !important;
+}
+
+.MuiStepLabel-labelContainer {
+  color: rgba(0, 0, 0, 0.4) !important;
+  cursor: pointer !important;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiStepIcon-root.Mui-active {
+  color: #289d68 !important;
+  border: 0px !important;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiStepIcon-root {
+  border: 2px solid rgba(47, 102, 77, 0.4) !important;
+  background-color: transparent !important;
+  border-radius: 50% !important;
+  color: transparent !important;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiStepIcon-root.Mui-completed {
+  color: #289d68 !important;
+  border: 0px !important;
+}
+
+.dialogOverflow.MuiDialogContent-root {
+  overflow-y: unset;
+}
+
+.check.MuiButtonBase-root {
+  padding: 1px 6px 0 0;
+  margin-left: 10px;
+}
+
+.tableborderDE {
+  border: 1px solid rgba(126, 151, 138, 0.3);
+}
+
+.tableborderDEA {
+  border: 1px solid rgba(126, 151, 138, 0.3);
+}

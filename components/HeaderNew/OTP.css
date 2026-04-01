@@ -1,0 +1,38 @@
+.otp-button{
+    margin-top: 25px!important;
+    width:93%!important;
+    height: 51px!important;
+    border-radius: 5px!important;
+    background: #000000!important;
+    font-family: Roboto!important;
+    font-size: 20px!important;
+    font-weight: 400!important;
+    line-height: 23px!important;
+    letter-spacing: 0em!important;
+    text-align: center!important;
+    color: #FFFFFF!important;
+    text-transform: none!important;
+}
+
+.otp-heading{
+    width: 351px!important;
+    height: 50px!important;
+    font-family: PoppinsBold!important;
+    font-size: 35px!important;
+    font-weight: 700!important;
+    line-height: 39px!important;
+    letter-spacing: 0em!important;
+    color: #000000!important;
+    text-align: center;
+    margin-left: 58px!important;
+    margin-top: 10px!important;
+}
+.otp-input{
+    width: 81px!important;
+    height: 65px!important;
+    border-radius: 10px!important;
+    background: #D1D1D1;
+    border: none!important;
+    text-align: center!important;
+    margin:0px 10px 0px 10px
+}

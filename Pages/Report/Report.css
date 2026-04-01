@@ -1,0 +1,15 @@
+.reportButtonDisable{
+    color: #ffffff!important;
+}
+.totalcount{
+    font-family: PoppinsBold;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 3.875rem;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    color: rgba(18, 68, 45, 1);
+    margin-top: 26px;
+    margin-left: 36px
+}

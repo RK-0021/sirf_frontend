@@ -1,0 +1,120 @@
+.placeholder-text {
+    margin-top: 17px !important;
+  }
+  
+  .placeholder-text1 {
+    margin-top: 18px !important;
+  }
+  
+  .dataval-text {
+    font-size: 15px !important;
+    font-family: 'Roboto' !important;
+    color: #FFF !important;
+    /* padding:20px 65px 0px 0px  !important; */
+  }
+  
+  
+  .dataval-text1 {
+    font-size: 12px !important;
+    font-family: 'Roboto' !important;
+    color: #FFF !important;
+    /* padding:20px 65px 0px 0px  !important; */
+  }
+  .custom-MuiPaper-root4 {
+    border-radius: 6px 0px 0px 0px !important;
+    height: 90% !important;
+    border-width: initial;
+    border-color: white;
+    border-style: none none dashed none;
+    margin-bottom: 1px !important
+  }
+  .custom-MuiPaper-root5 {
+    border-radius: 0px 0px 0px 0px !important;
+    height: 100% !important;
+    border-width: initial;
+    border-color: white;
+    border-style: none none dashed none;
+    margin-bottom: 1px !important
+  }
+
+  .custom-MuiPaper-root6 {
+    border-radius: 0px 0px 0px 6px !important;
+    height: 100% !important;
+    border-width: initial;
+    border-color: white;
+    margin-top: -2.5px;
+  }
+  
+  .selectdrop {
+    padding: '4px';
+  }
+  
+  .MenuProps {
+    color: #FFF !important;
+    height: 121px;
+    width: 175px;
+    border-radius: 4px !important;
+  }
+  
+  .custom-root4 {
+    background-color: #DFE7DE !important;
+    border-radius: 0px 6px 0px 0px !important;
+    /* min-height: 85%; */
+    height: 90%;
+    border-color: #86868666 !important;
+    border-style: none none solid none;
+    margin-top: 1px;
+  }
+  .custom-root5 {
+    background-color: #DFE7DE !important;
+    border-radius: 0px 0px 0px 0px !important;
+    border-color: #86868666 !important;
+    border-style: none none solid none;
+    /* min-height: 85%; */
+    height: 100%;
+  }
+  
+  .custom-root6 {
+    background-color: #DFE7DE !important;
+    border-radius: 0px 0px 6px 0px !important;
+    /* min-height: 85%; */
+    height: 100%;
+    margin-top: -3.5px;
+  }
+  
+  .Custom-Mui-disabled {
+    background-color: gray !important;
+    opacity: 60% !important
+  }
+  
+  .datavaldiv {
+    margin-top: 30px;
+    margin-left: 25px;
+    ::-webkit-scrollbar {
+      width: 5px;
+      margin-left: 20px;
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      height: 50px;
+      border-radius: 4px;
+      background: #C5E0C8;
+    }
+  }
+  
+  .formControl {
+    margin: 8px;
+    /* min-width: 150px;
+    max-width: 300px;  */
+  }
+  
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .chip {
+    margin: 3px !important;
+    border-radius: 0px !important;
+    padding: 20px !important;
+  }

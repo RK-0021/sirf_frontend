@@ -1,0 +1,101 @@
+.cont{
+    align-items: center;
+}
+
+.box{
+    width: 100%;
+    background-color: #DFE7DE !important;
+    border-radius: 10px;
+}
+
+.css-1l4w6pd{
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.css-1pw81iq-MuiInputBase-root-MuiFilledInput-root.Mui-disabled{
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.stack{
+    width: 35% !important;
+}
+
+.logo{
+    width: 50px;
+}
+
+.App1{
+    text-align: center;
+    width: 100%;
+}
+
+.box2{
+    margin-top: 0px !important;
+}
+
+.box2 p{
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.color{
+    color: #30A08A;
+}
+
+.red{
+    color: red;
+}
+
+.disabledButton{
+    background-color: grey !important;
+    color: white !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border: none !important;
+  }
+
+  .p{
+    margin: 0 !important;
+  }
+
+  .teachFile{
+    text-align: left !important;
+    font-size: 15px;
+    width: 120px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .deleteBtn{
+    width: 75% !important;
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+    margin: 20px 10px 20px 30px !important;
+  }
+
+  .css-1hnzuku-MuiLinearProgress-root{
+    width: 100% !important;
+  }
+
+  .ssurvey-container{
+    background-color: #F8F8F8;
+    margin-bottom: -4%;
+    padding: 2% 2% 4% 2%;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .teachFile{
+        margin-left: 0px;
+        width: 80px;
+    }
+    .deleteBtn{
+        margin: 20px 0px 20px 0px !important;
+    }
+    .css-qjc350{
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+  }

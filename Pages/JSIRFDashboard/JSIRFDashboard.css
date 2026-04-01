@@ -1,0 +1,19 @@
+.topp{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5vh;
+    margin-left: -29px;
+}
+.middle{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    margin-left: 5px;
+}
+
+.bottomm{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    margin-left: -20px;
+}

@@ -1,0 +1,39 @@
+.download_app {
+    margin: 0 3%;
+}
+
+/* .MuiTable-root {
+    margin: 20px 0;
+} */
+
+.vector {
+    margin-left: 26px;
+    margin-top: 35px;
+    width: 200px;
+    height: 5px;
+}
+
+.about-vector {
+    height: 0.35rem;
+    margin-top: 2.1rem;
+    width: 14rem;
+}
+
+.downloads_caption {
+    font-family: PoppinsBold;
+    /* font-family: Garamond; */
+    font-size: 3.375rem;
+    font-weight: 500;
+    line-height: 3.875rem;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    color: #23534D;
+    /* padding: 2px; */
+    margin: 20px 0px 0px 40px;
+}
+
+/* .MuiTableCell-root {
+    border-bottom: 0 !important;
+    padding: 12px !important;
+} */

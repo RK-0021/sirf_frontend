@@ -1,0 +1,16 @@
+.faq_caption {
+    font-family: PoppinsBold;
+    font-size: 1.875rem;
+    font-weight: 600;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 0px;
+    display: flex;
+    margin: 40px 0px 0px 40px;
+    color: rgba(18, 68, 45, 1);
+}
+
+.faq_margin {
+    margin: 35px;
+}

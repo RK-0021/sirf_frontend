@@ -1,0 +1,45 @@
+.dashboard-wrapper {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.dashboard-left {
+    flex-basis: 30%;
+    border-radius: 5px;
+    /* box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.25); */
+    background-color:#F6F6F6;
+    padding-top: 20px;
+}
+
+.dashboard-right {
+    flex-basis: 65%;
+    border-radius: 5px;
+    /* box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.25); */
+    background-color: #F6F6F6;
+}
+
+.dashboard-dropdown{
+    margin-top: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: end;
+}
+
+.select-filter{
+    padding: 10px;
+    background-color: #14705D;
+    box-shadow: 24;
+    border-radius: 5px;
+    font-family: Roboto;
+    color: #ffffff;
+    text-align: center;
+    margin: 15px 50px 30px 50px;
+    font-size: 20px;
+}
+
+.apexcharts-zoom-rect {
+    display: none!important;
+}

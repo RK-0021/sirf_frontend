@@ -1,0 +1,27 @@
+.row1{
+    display: flex;
+    margin: 30px 10px;
+    justify-content: space-around;
+}
+
+.jsirfr1left{
+    flex-basis: 30%;
+}
+
+.jsirfr1right{
+    flex-basis: 64%;
+}
+
+.row2{
+    display: flex;
+    margin: 30px 10px;
+    justify-content: space-around;
+}
+
+.jsirfr2left{
+    flex-basis: 64%;
+}
+
+.jsirfr2right{
+    flex-basis: 30%;
+}

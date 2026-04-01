@@ -1,0 +1,56 @@
+.banner-container {
+  position: relative;
+  width: 100%;
+  height: 500px;
+}
+
+.banner-image {
+  width: 100%;
+  height: 88%;
+  object-fit: cover;
+  position: relative;
+  top: -1192px;
+}
+.banner-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.banner-text {
+  position: absolute;
+  top: -200%;
+  right: 10%;
+  transform: translateY(-50%);
+  color: white;
+  max-width: 590px;
+  text-align: left;
+}
+
+.banner-text h4 {
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.banner-text h1 {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.banner-text h5 {
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+.banner-text h6 {
+  margin-bottom: 20px;
+  font-weight: 400;
+}
+
+.banner-text p {
+  font-size: 14px;
+  line-height: 1.6;
+}

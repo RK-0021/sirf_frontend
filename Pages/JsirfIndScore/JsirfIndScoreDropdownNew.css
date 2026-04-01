@@ -1,0 +1,165 @@
+.placeholder-textNew {
+    margin-top: 17px !important;
+    text-align: center;
+}
+
+.placeholder-textNew1 {
+    margin-top: 18px !important;
+    text-align: center;
+}
+
+.placeholder-textNew2 {
+    margin-top: 35px !important;
+    text-align: center;
+}
+
+.dataval-text {
+    font-size: 15px !important;
+    font-family: 'Roboto' !important;
+    color: #FFF !important;
+    /* padding:20px 65px 0px 0px  !important; */
+}
+
+
+.dataval-text1 {
+    font-size: 12px !important;
+    font-family: 'Roboto' !important;
+    color: #FFF !important;
+    /* padding:20px 65px 0px 0px  !important; */
+}
+
+.custom-MuiPaper-root4 {
+    border-radius: 6px 0px 0px 0px !important;
+    height: 100% !important;
+    border-width: initial;
+    text-align: center !important;
+    border-color: #86868666 !important;
+    border-style: none none solid none !important;
+    border-width: thin;
+    box-shadow: none !important;
+    /* border-style: none none dashed none;
+    margin-bottom: 1px !important */
+}
+
+.custom-MuiPaper-root5 {
+    border-radius: 0px 0px 0px 0px !important;
+    height: 100% !important;
+    border-width: initial;
+    border-color: #86868666 !important;
+    border-style: none none solid none !important;
+    text-align: center !important;
+    border-width: thin;
+    box-shadow: none !important;
+    /* border-style: none none dashed none;
+    margin-bottom: 1px !important */
+}
+
+.custom-MuiPaper-root6 {
+    border-radius: 0px 0px 0px 6px !important;
+    height: 100% !important;
+    border-width: initial;
+    text-align: center !important;
+    box-shadow: none !important;
+    /* margin-top: -2.5px; */
+}
+
+.selectdrop {
+    padding: '4px';
+}
+
+.MenuProps3 {
+    color: black !important;
+    height: 150px !important;
+    width: 175px !important;
+    border-radius: 4px !important;
+}
+
+.MenuProps1 {
+    /* color: black !important; */
+    color: black !important;
+    height: 80px !important;
+    width: 140px !important;
+    border-radius: 4px !important;
+}
+
+.MenuProps2 {
+    color: black !important;
+    /* height: 50px !important; */
+    width: 140px !important;
+    border-radius: 4px !important;
+}
+
+.custom-root4 {
+    background-color: rgba(249, 249, 249, 1) !important;
+    border-radius: 0px 6px 0px 0px !important;
+    /* min-height: 85%; */
+    height: 100%;
+    border-color: #86868666 !important;
+    border-style: none none solid none;
+    border-width: thin;
+    box-shadow: none !important;
+    /* margin-top: 1px; */
+    text-align: left !important;
+}
+
+.custom-root5 {
+    background-color: rgba(249, 249, 249, 1) !important;
+    border-radius: 0px 0px 0px 0px !important;
+    border-color: #86868666 !important;
+    border-style: none none solid none;
+    border-width: thin;
+    box-shadow: none !important;
+    /* min-height: 85%; */
+    text-align: left !important;
+    height: 100%;
+}
+
+.custom-root6 {
+    background-color: rgba(249, 249, 249, 1) !important;
+    border-radius: 0px 0px 6px 0px !important;
+    /* min-height: 85%; */
+    height: 100%;
+    text-align: left !important;
+    box-shadow: none !important;
+    /* margin-top: -3.5px; */
+}
+
+
+.datavaldiv {
+    margin-top: 0px;
+    margin-left: 25px;
+
+    ::-webkit-scrollbar {
+        width: 5px;
+        margin-left: 20px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        height: 50px;
+        border-radius: 4px;
+        background: #C5E0C8;
+    }
+}
+
+.formControl {
+    margin: 8px;
+    /* min-width: 150px;
+    max-width: 300px;  */
+}
+
+.chips {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chipNew1 {
+    margin: 0.188rem !important;
+    border-radius: 2.438rem !important;
+    /* padding: 0.313rem !important; */
+    color: rgba(42, 119, 73, 1) !important;
+    font-weight: 500 !important;
+    font-size: 0.9rem !important;
+    height: 2.3rem !important;
+    /* width: 9rem !important; */
+    background-color: rgba(77, 183, 119, 0.18) !important
+}

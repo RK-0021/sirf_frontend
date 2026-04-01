@@ -1,0 +1,160 @@
+.profileMenu {
+    flex-basis: 23%;
+}
+
+.profileMain {
+    flex-basis: 77%;
+}
+
+.profile-menu-list {
+    height: 100% !important;
+    width: 100% !important;
+    border-radius: 10px !important;
+    background-color: #DFE7DE !important;
+    box-shadow: 0px 4px 10px 0px #00000040 !important;
+    padding-top: 0px !important;
+}
+
+.profile-menu-list-item {
+    height: 62px !important;
+}
+
+.profile-menu-list-text {
+    text-align: center !important;
+    font-family: Roboto !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    line-height: 18px !important;
+    letter-spacing: 0em !important;
+    color: #000000 !important;
+}
+
+.profile-main-box {
+    box-shadow: 0px 4px 30px 10px #00000040 !important;
+    margin-left: 32px;
+    border-radius: 10px !important;
+    padding-top: 10px;
+    padding-bottom: 30px !important;
+}
+
+.profile-main-th {
+    font-family: Roboto !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    line-height: 21px !important;
+    letter-spacing: 0em !important;
+    color: #626262 !important;
+    position: relative !important;
+}
+
+.profile-main-td {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #000000;
+}
+
+.profile-main-edit {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: #2F664D;
+    cursor: pointer;
+}
+
+.profile_radio.MuiSvgIcon-root {
+    width: 14px !important;
+    height: 14px !important;
+    color: #787878;
+    border: 1px;
+}
+
+.profile-mock-submit {
+    width: 120px !important;
+    height: 45px !important;
+    border-radius: 10px !important;
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    font-family: Roboto !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 19px !important;
+    letter-spacing: 0em !important;
+    text-transform: none !important;
+    margin-left: 40% !important;
+    margin-top: 40px !important;
+}
+
+.profile-logout-box {
+    width: 380px !important;
+    height: 214px !important;
+    border-radius: 10px !important;
+    background: rgba(202, 216, 207, 0.47);
+    text-align: center !important;
+    margin-left: 25%;
+    margin-bottom: 50px;
+    padding-top: 40px;
+}
+
+.profile-logout-typo {
+    font-family: Roboto !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 23px !important;
+    letter-spacing: 0em !important;
+    color: rgba(0, 0, 0, 1) !important;
+}
+
+.profile-logout-button {
+    width: 80px !important;
+    height: 39px !important;
+    border-radius: 5px !important;
+    background: rgba(0, 0, 0, 1) !important;
+    font-family: Roboto !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 23px !important;
+    letter-spacing: 0em !important;
+    color: rgba(255, 255, 255, 1) !important;
+    text-transform: none !important;
+    margin: 35px 5px 30px 5px !important;
+}
+
+.profile-hei-radio {
+    width: 13px !important;
+    height: 13px !important;
+    color: rgba(40, 157, 104, 1);
+}
+
+.profile-hei-typo {
+    width: 569px !important;
+    height: 29px !important;
+    font-family: Roboto !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    line-height: 21px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+    color: rgba(0, 0, 0, 1) !important;
+}
+
+.profile-hei-button {
+    width: 80px !important;
+    height: 28px !important;
+    border-radius: 5px !important;
+    background: rgba(0, 0, 0, 1) !important;
+    font-family: Roboto !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    line-height: 18px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+    color: rgba(255, 255, 255, 1) !important;
+    text-transform: none !important;
+    margin-right: 5px!important;
+    margin-left: 5px!important;
+}

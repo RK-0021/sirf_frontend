@@ -1,0 +1,46 @@
+.updates-container {
+  display: flex;
+  align-items: normal;
+  background-color: #d8ccc3;
+  height: 85px;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+  position: relative;
+  top: 514px;           
+}
+.updates-label {
+  display: flex;
+  align-items: center;
+  background-color: #e6dbd3;
+  padding: 0 20px;
+  height: 100%;
+  border-right: 2px solid #c0392b;
+  font-weight: bold;
+  color: #2bc02b;
+  white-space: nowrap;
+}
+
+.updates-marquee {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+  color: #29ae00;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+.updates-track {
+  display: inline-block;
+  white-space: nowrap;
+  position: absolute;
+  animation: scrollText 45s linear infinite;
+}
+
+@keyframes scrollText {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

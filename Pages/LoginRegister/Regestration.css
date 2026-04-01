@@ -1,0 +1,26 @@
+
+
+
+
+
+.MuiInputLabel-root{
+    font-family: Roboto !important;
+    font-size: 12px !important;
+    padding: 0px !important;
+}
+.MuiInputBase-input{
+    padding: 4px;
+}
+
+
+.captcha_refresh{
+    color:#fff;
+    text-decoration: line-through;
+    user-select: none;
+    background-color: #3B3D3D;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 22px;
+    margin-bottom: auto;
+}
